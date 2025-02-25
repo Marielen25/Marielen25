@@ -6,9 +6,7 @@
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact:Adoro Inteligência Artificial e estou sempre acompanhando as novidades dessa área fascinante! Já estudei Python e estou constantemente buscando aprender mais sobre novas tecnologias e desafios no mundo da programação.
 
-<!---
-Marielen25/Marielen25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 ### 🤖 Languages ​​and Technologies
 <img 
     align="left" 
