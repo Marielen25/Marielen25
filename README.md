@@ -58,8 +58,11 @@ You can click the Preview link to take a look at your changes.
 
 ### 📱 Social Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-soares-maciel-4aa02111a/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victormaciel007/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+.(https://www.linkedin.com/in/marielen-zeferino-machado-a78a5799?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]
+.(https://www.instagram.com/mmarizeferino?igsh=eDNnemdoamJzemh1).
 
 <!-- Adicione mais links sociais aqui -->
 
