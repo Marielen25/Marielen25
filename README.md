@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Marielen25
 - 👀  Estou interessado em desenvolvimento de software, programação orientada a objetos e desenvolvimento web.
+- 📚  Cursando Técnico em Informatica no CEET VASCO COUTINHO .
 - 🌱 Atualmente estou aprendendo C#,JavaScript, SQL, HTML e CSS.
-- 💞️ Estou procurando colaborar em projetos de código aberto ou desenvolvimento de aplicações.
 - 📫 Como entrar em contato comigo: marielenzm@gmail.com
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact:Adoro Inteligência Artificial e estou sempre acompanhando as novidades dessa área fascinante! Já estudei Python e estou constantemente buscando aprender mais sobre novas tecnologias e desafios no mundo da programação.
